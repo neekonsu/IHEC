@@ -7,7 +7,7 @@ the Accessions entry is populated by a reflexive function locally in metadata.go
 */
 type Selection struct {
 	files      []METADATA
-	Accessions []string
+	Accessions map[string]bool
 }
 
 // METADATA represents one whole JSON object stored in the metadata for a single IHEC assay
@@ -87,11 +87,15 @@ type METADATA struct {
 /*
 PopulateAccessions iterates the Selection's files and populates Accessions with the appropiate strings
 Accession comes in following format: "EGAD00001003963"
+Because I changed the Accessions datatype to map[string]bool, there are no duplicate items.
 */
 func (s *Selection) PopulateAccessions() {
+	output := make(map[string]bool)
 	for _, metadata := range s.files {
 		for _, dataset := range metadata.Datasets {
-			s.Accessions = append(s.Accessions, IsolateAccession(dataset.RawDataURL))
+			output[IsolateAccession(dataset.RawDataURL)] = false
 		}
 	}
+	delete(output, "")
+	s.Accessions = output
 }

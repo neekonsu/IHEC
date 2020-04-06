@@ -11,7 +11,7 @@ func main() {
 	jsonPath := flag.String("jsonPath", "./res", "Path to directory storing JSON metadata files")
 	selection := ihec.PopulateFiles(*jsonPath)
 	selection.PopulateAccessions()
-	for _, item := range selection.Accessions {
-		fmt.Println(item)
+	for key := range selection.Accessions {
+		fmt.Println(key)
 	}
 }

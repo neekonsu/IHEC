@@ -33,8 +33,11 @@ Takes url such as: "https://www.ebi.ac.uk/ega/datasets/EGAD00001003963"
 func IsolateAccession(path string) string {
 	URL, err := url.Parse(path)
 	CheckErr("Unable to parse URL: "+path+": ", err)
-	index := strings.Index(URL.Path, "datasets/") + 9
-	return URL.Path[index:]
+	if len(path) != 0 {
+		index := strings.Index(URL.Path, "datasets/") + 9
+		return URL.Path[index:]
+	}
+	return ""
 }
 
 // PopulateFiles takes a path to a directory storing JSON metadata files and returns a Selection with files but not Accessions
