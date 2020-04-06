@@ -8,9 +8,7 @@ import (
 )
 
 func main() {
-	jsonPath := flag.String("jsonPath", "./res/json_metadata", "Path to directory storing JSON metadata files")
-	// TODO: Make sure you name the downloaded HTML file as "page.html"
-	// TODO: implement function to handle html: htmlPath := flag.String("htmlPath", "./res/page.html", "Path to html file of IHEC browser **after** selecting data of interest")
+	jsonPath := flag.String("jsonPath", "./res", "Path to directory storing JSON metadata files")
 	selection := ihec.PopulateFiles(*jsonPath)
 	selection.PopulateAccessions()
 	for _, item := range selection.Accessions {

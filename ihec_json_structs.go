@@ -20,27 +20,10 @@ type METADATA struct {
 			AnalysisSoftware         string `json:"analysis_software"`
 			AnalysisSoftwareVersion  string `json:"analysis_software_version"`
 		} `json:"analysis_attributes"`
-		Browser struct {
-			RpkmForward []struct {
-				BigDataURL string `json:"big_data_url"`
-				Md5Sum     string `json:"md5sum"`
-				Primary    bool   `json:"primary"`
-			} `json:"rpkm_forward"`
-			RpkmReverse []struct {
-				BigDataURL string `json:"big_data_url"`
-				Md5Sum     string `json:"md5sum"`
-				Primary    bool   `json:"primary"`
-			} `json:"rpkm_reverse"`
-			SignalForward []struct {
-				BigDataURL string `json:"big_data_url"`
-				Md5Sum     string `json:"md5sum"`
-				Primary    bool   `json:"primary"`
-			} `json:"signal_forward"`
-			SignalReverse []struct {
-				BigDataURL string `json:"big_data_url"`
-				Md5Sum     string `json:"md5sum"`
-				Primary    bool   `json:"primary"`
-			} `json:"signal_reverse"`
+		Browser map[string]struct {
+			BigDataURL string `json:"big_data_url"`
+			Md5Sum     string `json:"md5sum"`
+			Primary    bool   `json:"primary"`
 		} `json:"browser"`
 		ExperimentAttributes struct {
 			ExperimentType      string `json:"experiment_type"`
