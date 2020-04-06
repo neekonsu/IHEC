@@ -6,6 +6,7 @@ import (
 	"net/url"
 	"os"
 	"path/filepath"
+	"strings"
 )
 
 // CheckErr is a generic error handler that can be used for unimportant errors
@@ -25,6 +26,17 @@ func ParseJSON(path string) METADATA {
 	return output
 }
 
+/*
+IsolateAccession takes a RawDataURL (string) and returns an isolated EGA (accession) number (string)
+Takes url such as: "https://www.ebi.ac.uk/ega/datasets/EGAD00001003963"
+*/
+func IsolateAccession(path string) string {
+	URL, err := url.Parse(path)
+	CheckErr("Unable to parse URL: "+path+": ", err)
+	index := strings.Index(URL.Path, "datasets/") + 9
+	return URL.Path[index:]
+}
+
 // PopulateFiles takes a path to a directory storing JSON metadata files and returns a Selection with files but not Accessions
 func PopulateFiles(path string) Selection {
 	var output Selection
@@ -37,14 +49,4 @@ func PopulateFiles(path string) Selection {
 			return nil
 		}))
 	return output
-}
-
-/*
-IsolateAccession takes a RawDataURL (string) and returns an isolated EGA (accession) number (string)
-Takes url such as: "https://www.ebi.ac.uk/ega/datasets/EGAD00001003963"
-*/
-func IsolateAccession(path string) string {
-	URL, err := url.Parse(path)
-	CheckErr("Unable to parse URL: "+path+": ", err)
-	return URL.Path
 }

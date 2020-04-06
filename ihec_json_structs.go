@@ -108,7 +108,7 @@ Accession comes in following format: "EGAD00001003963"
 func (s *Selection) PopulateAccessions() {
 	for _, metadata := range s.files {
 		for _, dataset := range metadata.Datasets {
-			s.Accessions = append(s.Accessions, dataset.RawDataURL)
+			s.Accessions = append(s.Accessions, IsolateAccession(dataset.RawDataURL))
 		}
 	}
 }
