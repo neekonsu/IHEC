@@ -1,5 +1,10 @@
 package ihec
 
+import (
+	"errors"
+	"fmt"
+)
+
 /*
 Selection represents a collection of JSON metadata files for a selection of assays
 the files entry is populated by the PopulateFiles() function in functions.go,
@@ -8,6 +13,19 @@ the Accessions entry is populated by a reflexive function locally in metadata.go
 type Selection struct {
 	files      []METADATA
 	Accessions map[string]bool
+}
+
+// LeanContext is a dense representation of a Dataset which only presents data relevant to the CEEHRC agreement
+type LeanContext map[string]context
+
+type context struct {
+	Assay            string
+	AssayCategory    string
+	CellType         string
+	CellTypeCategory string
+	ReleasingGroup   string
+	RawDataURL       string
+	Accession        string
 }
 
 // METADATA represents one whole JSON object stored in the metadata for a single IHEC assay
@@ -94,8 +112,62 @@ func (s *Selection) PopulateAccessions() {
 	for _, metadata := range s.files {
 		for _, dataset := range metadata.Datasets {
 			output[IsolateAccession(dataset.RawDataURL)] = false
+			output[IsolateAccession(dataset.IhecDataPortal.RawDataURL)] = false
 		}
 	}
 	delete(output, "")
 	s.Accessions = output
+}
+
+// MakeLeanContext reflexively generates a LeanContext from a Selection; Selection.files is only required in order to complete
+func (s *Selection) MakeLeanContext() (LeanContext, error) {
+	var output LeanContext
+	tmp := make(map[string]context)
+	if len(s.files) == 0 {
+		return nil, errors.New("provided Selection has empty files.\nAt least len(1) Selection.files is required")
+	}
+	for _, json := range s.files {
+		for name, contents := range json.Datasets {
+			// I can't figure out how I could have made LeanContext type map[string]struct{...};
+			// I don't know how to initialize the anonymouus struct when dealing with a map.
+			// Something to research for later
+			tmp[name] = context{
+				contents.IhecDataPortal.Assay,
+				contents.IhecDataPortal.AssayCategory,
+				contents.IhecDataPortal.CellType,
+				contents.IhecDataPortal.CellTypeCategory,
+				contents.IhecDataPortal.ReleasingGroup,
+				contents.IhecDataPortal.RawDataURL,
+				IsolateAccession(contents.IhecDataPortal.RawDataURL),
+			}
+		}
+	}
+	output = tmp
+	return output, nil
+}
+
+// PrintAccessions pretty prints the unique accessions list along with the total number of unique accessions
+func (s *Selection) PrintAccessions() {
+	i := 0
+	for key := range s.Accessions {
+		fmt.Println(key)
+		i++
+	}
+	fmt.Println("Total of", i, "unique accessions found")
+}
+
+// PrintLeanContext calls MakeLeanContext() and then pretty prints the results
+func (s *Selection) PrintLeanContext() {
+	lc, err := s.MakeLeanContext()
+	CheckErr("Unable to PrintLeanContext: ", err)
+	for key, val := range lc {
+		fmt.Println(key + ":")
+		fmt.Println("\t"+"Raw Data URl:", val.RawDataURL)
+		fmt.Println("\t"+"Accession:", val.Accession)
+		fmt.Println("\t"+"Assay:", val.Assay)
+		fmt.Println("\t"+"Assay Category:", val.AssayCategory)
+		fmt.Println("\t"+"Cell Type:", val.CellType)
+		fmt.Println("\t"+"Cell Type Category:", val.CellTypeCategory)
+		fmt.Println("\t"+"Releasing Group:", val.ReleasingGroup)
+	}
 }
