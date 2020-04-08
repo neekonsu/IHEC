@@ -1,0 +1,974 @@
+MS000701_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0006_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0033_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0050_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0034_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0079_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0179_Input,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,Input,Histone Modifications,Luminal Cells,Other
+CEMT0053_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0178_H3K27me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27me3,Histone Modifications,Luminal progenitor,Other
+CEMT0043_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0021_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0025_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0097_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0028_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0181_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Basal cells,Other
+CEMT0133_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0099_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0044_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0094_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0183_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Luminal cell,Other
+CEMT0038_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Luminal progenitor,Other
+CEMT0133_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0059_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0062_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0179_H3K4me1,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me1,Histone Modifications,Luminal Cells,Other
+CEMT0087_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0045_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0188_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Stromal cell,Other
+CEMT0060_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0063_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0057_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0096_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0153_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0050_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0064_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS000801_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0133_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0026_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0047_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0023_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain,Brain
+CEMT0081_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0137_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0099_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0025_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0096_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0187_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Luminal cell,Other
+CEMT0032_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Hematopoietic,Other
+MS001001_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0133_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+MS000201_H3K27me3,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,H3K27me3,Histone Modifications,monocyte,Blood
+CEMT0155_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Luminal progenitor,Other
+CEMT0178_H3K27ac,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27ac,Histone Modifications,Luminal progenitor,Other
+CEMT0022_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain,Brain
+CEMT0135_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+MS000401_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0030_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD19+ cells (B lymphocytes),Blood
+MS000201_H3K4me1,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,H3K4me1,Histone Modifications,monocyte,Blood
+CEMT0086_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0180_H3K4me1,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me1,Histone Modifications,Stromal cells,Other
+CEMT0138_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0041_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0129_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0068_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0026_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD19+ cells (B lymphocytes),Blood
+CEMT0186_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Luminal progenitor cell,Other
+CEMT0043_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0029_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD19+ cells (B lymphocytes),Blood
+CEMT0186_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0152_mRNA-Seq,CEMT,EGAD00001004300,https://www.ebi.ac.uk/ega/datasets/EGAD00001004300,mRNA-Seq,Transcriptome,CD4 Naive,Other
+MS000701_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0073_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0028_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0032_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Hematopoietic,Other
+CEMT0073_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0061_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other
+CEMT0062_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0019_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Temporal lobe-Left,Brain
+CEMT0042_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0060_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0133_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+MS000401_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0157_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Stromal cells,Other
+CEMT0021_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0081_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0154_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Basal cell,Other
+CEMT0025_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD19+ cells (B lymphocytes),Blood
+CEMT0150_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD4 Naive,Other
+CEMT0055_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0038_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Luminal progenitor,Other
+CEMT0054_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0006_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0095_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0178_H3K4me1,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me1,Histone Modifications,Luminal progenitor,Other
+CEMT0041_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0182_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Luminal progenitor cell,Other
+CEMT0153_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0031_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Hematopoietic,Other
+CEMT0075_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0051_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0091_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0043_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0187_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Luminal cell,Other
+CEMT0065_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0029_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+MS000801_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0004_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0187_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Luminal cell,Other
+CEMT0079_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0130_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0187_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Luminal cell,Other
+CEMT0005_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0150_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD4 Naive,Other
+MS000401_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0073_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0059_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0074_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-right temporal,Other
+CEMT0065_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0185_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Basal cells,Other
+CEMT0135_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0053_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0050_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0064_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0004_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0067_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0053_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other
+CEMT0087_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0134_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0059_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0057_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0050_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0059_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0025_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0154_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Basal cell,Other
+CEMT0073_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0006_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0028_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0065_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0034_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0052_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0057_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other
+CEMT0075_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0009_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,184-hTert-L2,Cell Line
+CEMT0179_H3K27ac,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27ac,Histone Modifications,Luminal Cells,Other
+CEMT0152_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD4 Naive,Other
+CEMT0156_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Luminal cell,Other
+CEMT0008_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,184-hTert-L9,Cell Line
+CEMT0036_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Stromal cells,Other
+CEMT0150_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD4 Naive,Other
+CEMT0184_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Stromal cell,Other
+CEMT0074_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-right temporal,Other
+CEMT0035_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Basal cells,Other
+CEMT0007_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,MCF10A,Cell Line
+MS000201_RNA-Seq,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,RNA-Seq,Transcriptome,monocyte,Blood
+CEMT0096_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0061_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0177_H3K27me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27me3,Histone Modifications,Basal cells,Other
+CEMT0078_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0099_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+MS000601_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0031_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Hematopoietic,Other
+CEMT0043_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+MS000901_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0137_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0138_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0054_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0055_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0073_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0059_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0183_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Luminal cell,Other
+CEMT0021_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0183_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Luminal cell,Other
+CEMT0086_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0090_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0078_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0185_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Basal cells,Other
+CEMT0073_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0147_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD4 Naive,Other
+CEMT0183_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Luminal cell,Other
+CEMT0149_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD4 Naive,Other
+CEMT0131_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0129_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0009_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,184-hTert-L2,Cell Line
+CEMT0067_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0032_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Hematopoietic,Other
+CEMT0135_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0088_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0054_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0050_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0099_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0086_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0056_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0133_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0184_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Stromal cell,Other
+CEMT0052_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0132_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0043_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0028_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0079_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0058_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000601_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0177_H3K4me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me3,Histone Modifications,Basal cells,Other
+CEMT0097_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0041_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0027_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0081_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Frontal Lobe-Right,Brain
+CEMT0064_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0029_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0131_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0129_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0041_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0133_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0152_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD4 Naive,Other
+CEMT0182_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Luminal progenitor cell,Other
+CEMT0044_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+MS000401_H3K27ac,McGill,,,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0184_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Stromal cell,Other
+CEMT0067_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0094_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0130_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0087_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0038_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Luminal progenitor,Other
+CEMT0156_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Luminal cell,Other
+CEMT0066_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0051_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0047_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0078_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+MS000201_H3K4me3,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,H3K4me3,Histone Modifications,monocyte,Blood
+CEMT0150_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD4 Naive,Other
+CEMT0042_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0022_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain,Brain
+CEMT0090_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0182_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0074_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-right temporal,Other
+CEMT0063_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0089_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0055_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0037_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Luminal cells-mature,Other
+CEMT0153_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0152_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD4 Naive,Other
+CEMT0064_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0183_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Luminal cell,Other
+CEMT0027_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD19+ cells (B lymphocytes),Blood
+CEMT0130_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+MS000501_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0062_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0155_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Luminal progenitor,Other
+CEMT0029_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0184_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Stromal cell,Other
+CEMT0023_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain,Brain
+CEMT0026_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0007_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,MCF10A,Cell Line
+CEMT0157_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Stromal cells,Other
+CEMT0153_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0037_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Luminal cells-mature,Other
+CEMT0033_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0094_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0157_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Stromal cells,Other
+CEMT0130_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0184_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Stromal cell,Other
+CEMT0054_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0156_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Luminal cell,Other
+CEMT0129_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0181_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Basal cells,Other
+CEMT0019_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Temporal lobe-Left,Brain
+CEMT0022_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain,Brain
+CEMT0034_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS000901_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0052_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0184_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Stromal cell,Other
+CEMT0025_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD19+ cells (B lymphocytes),Blood
+CEMT0006_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0004_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+MS000501_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0043_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0055_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0137_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0098_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0153_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0066_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0033_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0188_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Stromal cell,Other
+CEMT0047_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0063_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0131_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0062_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0131_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0058_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0095_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0047_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0086_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0037_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Luminal cells-mature,Other
+CEMT0155_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Luminal progenitor,Other
+CEMT0008_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,184-hTert-L9,Cell Line
+CEMT0130_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0044_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0057_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+CEMT0067_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0035_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Basal cells,Other
+CEMT0097_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0019_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Temporal lobe-Left,Brain
+CEMT0068_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000801_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0056_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+MS001101_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0099_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0063_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0187_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Luminal cell,Other
+CEMT0032_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Hematopoietic,Other
+CEMT0098_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0005_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0030_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD19+ cells (B lymphocytes),Blood
+CEMT0034_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0045_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0088_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0087_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0133_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0031_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Hematopoietic,Other
+CEMT0090_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0029_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+MS000201_H3K36me3,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,H3K36me3,Histone Modifications,monocyte,Blood
+CEMT0090_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0182_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0156_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Luminal cell,Other
+CEMT0094_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0061_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0029_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD19+ cells (B lymphocytes),Blood
+MS000901_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0052_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0147_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD4 Naive,Other
+CEMT0040_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0068_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000601_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0094_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0029_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0064_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0152_WGB-Seq,CEMT,EGAD00001004300,https://www.ebi.ac.uk/ega/datasets/EGAD00001004300,WGB-Seq,Methylome,CD4 Naive,Other
+CEMT0061_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0099_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0038_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Luminal progenitor,Other
+CEMT0007_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,MCF10A,Cell Line
+CEMT0133_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0022_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain,Brain
+MS000401_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0178_mRNA-Seq,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,mRNA-Seq,Transcriptome,Luminal progenitor,Other
+CEMT0097_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0081_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0027_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0007_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,MCF10A,Cell Line
+CEMT0073_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Occipetal Lobe-Right,Other
+CEMT0063_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS000701_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0022_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain,Brain
+CEMT0021_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Frontal Lobe-Left,Brain
+CEMT0149_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD4 Naive,Other
+CEMT0051_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0075_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Frontal Lobe-Left,Brain
+CEMT0042_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0036_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Stromal cells,Other
+CEMT0037_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Luminal cells-mature,Other
+CEMT0185_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Basal cells,Other
+CEMT0186_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0041_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0041_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0091_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0034_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0062_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0045_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0129_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0132_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0086_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0090_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0009_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,184-hTert-L2,Cell Line
+CEMT0023_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain,Brain
+CEMT0153_mRNA-Seq,CEMT,EGAD00001004300,https://www.ebi.ac.uk/ega/datasets/EGAD00001004300,mRNA-Seq,Transcriptome,Naive CD4+ T Cells,Blood
+CEMT0004_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+MS000401_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0076_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0066_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0060_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0076_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0131_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0149_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD4 Naive,Other
+MS000701_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+MS000401_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0188_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Stromal cell,Other
+CEMT0130_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0136_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+MS000801_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0072_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS001001_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0089_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0030_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0068_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000801_H3K36me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0184_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Stromal cell,Other
+CEMT0055_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0181_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Basal cells,Other
+MS000501_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0129_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0096_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0096_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0052_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0089_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0185_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Basal cells,Other
+CEMT0055_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other
+MS000801_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0079_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Frontal Lobe-Right,Brain
+CEMT0038_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Luminal progenitor,Other
+CEMT0008_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,184-hTert-L9,Cell Line
+CEMT0181_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Basal cells,Other
+CEMT0005_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0006_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0038_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Luminal progenitor,Other
+CEMT0072_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0008_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,184-hTert-L9,Cell Line
+CEMT0072_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0050_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000701_H3K36me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0147_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD4 Naive,Other
+CEMT0022_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain,Brain
+CEMT0179_H3K4me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me3,Histone Modifications,Luminal Cells,Other
+CEMT0134_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0054_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0058_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0052_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0079_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0054_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+MS000801_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0067_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0075_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0060_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0064_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0021_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Left,Brain
+MS001101_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0045_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0027_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD19+ cells (B lymphocytes),Blood
+CEMT0063_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS001001_H3K36me3,McGill,,,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0156_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Luminal cell,Other
+CEMT0037_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Luminal cells-mature,Other
+CEMT0036_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Stromal cells,Other
+MS000401_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0178_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Luminal progenitor,Other
+CEMT0006_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0062_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0135_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0186_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0031_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Hematopoietic,Other
+CEMT0091_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0045_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0050_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+MS001101_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0033_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS001001_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0055_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+CEMT0065_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0095_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0044_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0177_H3K36me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K36me3,Histone Modifications,Basal cells,Other
+CEMT0098_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0053_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0023_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain,Brain
+CEMT0147_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD4 Naive,Other
+CEMT0005_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0147_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD4 Naive,Other
+CEMT0035_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Basal cells,Other
+CEMT0132_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+MS000201_H3K9me3,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,H3K9me3,Histone Modifications,monocyte,Blood
+CEMT0074_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-right temporal,Other
+CEMT0068_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0032_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Hematopoietic,Other
+CEMT0150_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD4 Naive,Other
+CEMT0042_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0055_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0042_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0033_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS001101_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0147_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD4 Naive,Other
+MS000501_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0052_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0072_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0044_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0138_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0147_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD4 Naive,Other
+MS000901_H3K36me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0076_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Frontal Lobe-Left,Brain
+CEMT0091_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0081_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0030_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0078_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0036_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Stromal cells,Other
+CEMT0044_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0086_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0031_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Hematopoietic,Other
+CEMT0033_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0075_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0045_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+MS000201_H3K27ac,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,H3K27ac,Histone Modifications,monocyte,Blood
+CEMT0008_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,184-hTert-L9,Cell Line
+CEMT0056_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0089_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0034_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0064_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0028_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0035_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Basal cells,Other
+CEMT0058_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0130_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+MS001001_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0076_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0079_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0066_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0068_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0072_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0181_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Basal cells,Other
+CEMT0028_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD19+ cells (B lymphocytes),Blood
+CEMT0130_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0066_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0023_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain,Brain
+CEMT0023_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain,Brain
+CEMT0054_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+MS000701_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0073_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Occipetal Lobe-Right,Other
+CEMT0097_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0136_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0089_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0183_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Luminal cell,Other
+CEMT0036_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Stromal cells,Other
+CEMT0074_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-right temporal,Other
+CEMT0178_Input,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,Input,Histone Modifications,Luminal progenitor,Other
+CEMT0088_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0188_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Stromal cell,Other
+CEMT0076_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0074_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-right temporal,Other
+MS001101_H3K36me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0136_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0056_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other
+CEMT0138_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0086_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0156_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Luminal cell,Other
+CEMT0181_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Basal cells,Other
+MS000501_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0036_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Stromal cells,Other
+CEMT0150_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD4 Naive,Other
+CEMT0019_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Temporal lobe-Left,Brain
+CEMT0068_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0187_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Luminal cell,Other
+CEMT0177_mRNA-Seq,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,mRNA-Seq,Transcriptome,Basal cells,Other
+CEMT0041_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0047_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Right,Brain
+CEMT0057_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0088_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0051_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0075_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0034_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0004_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0097_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0079_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0134_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0051_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000501_H3K36me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0087_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0031_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Hematopoietic,Other
+CEMT0072_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000201_WGB-Seq,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,WGB-Seq,Methylome,monocyte,Blood
+CEMT0060_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+CEMT0009_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,184-hTert-L2,Cell Line
+CEMT0078_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0005_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0081_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0154_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Basal cell,Other
+CEMT0021_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0138_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0062_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0051_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0099_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0063_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0135_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0058_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0178_H3K36me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K36me3,Histone Modifications,Luminal progenitor,Other
+CEMT0088_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+MS000701_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0087_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0036_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Stromal cells,Other
+CEMT0021_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0040_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0033_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0074_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-right temporal,Other
+CEMT0137_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0008_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,184-hTert-L9,Cell Line
+CEMT0137_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0095_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0009_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,184-hTert-L2,Cell Line
+CEMT0066_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0055_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0065_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0089_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0088_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0066_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0057_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0155_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Luminal progenitor,Other
+CEMT0060_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0026_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0030_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0050_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0027_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0054_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0178_H3K4me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me3,Histone Modifications,Luminal progenitor,Other
+CEMT0040_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0177_H3K27ac,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27ac,Histone Modifications,Basal cells,Other
+CEMT0057_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0095_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0019_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Temporal lobe-Left,Brain
+CEMT0065_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0079_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0037_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Luminal cells-mature,Other
+CEMT0061_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0185_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Basal cells,Other
+CEMT0031_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Hematopoietic,Other
+CEMT0134_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0157_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Stromal cells,Other
+CEMT0009_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,184-hTert-L2,Cell Line
+MS001001_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0059_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0007_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,MCF10A,Cell Line
+CEMT0188_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Stromal cell,Other
+CEMT0023_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain,Brain
+CEMT0008_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,184-hTert-L9,Cell Line
+CEMT0076_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0025_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0186_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Luminal progenitor cell,Other
+CEMT0132_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0096_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0136_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0132_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0090_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0053_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0153_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0098_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0059_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0178_H3K9me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K9me3,Histone Modifications,Luminal progenitor,Other
+MS000701_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0186_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Luminal progenitor cell,Other
+CEMT0053_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0095_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0091_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0180_H3K4me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me3,Histone Modifications,Stromal cells,Other
+CEMT0086_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0021_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0095_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0081_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0057_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0156_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Luminal cell,Other
+CEMT0087_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0035_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Basal cells,Other
+MS000901_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0025_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+MS000201_Input,McGill,EGAD00001001282,https://www.ebi.ac.uk/ega/datasets/EGAD00001001282,Input,Histone Modifications,monocyte,Blood
+CEMT0155_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Luminal progenitor,Other
+CEMT0028_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+MS000401_H3K36me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0058_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0022_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain,Brain
+CEMT0182_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Luminal progenitor cell,Other
+MS000801_H3K9me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0177_H3K4me1,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K4me1,Histone Modifications,Basal cells,Other
+CEMT0047_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0182_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Luminal progenitor cell,Other
+CEMT0075_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Left,Brain
+CEMT0008_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,184-hTert-L9,Cell Line
+CEMT0130_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0067_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0060_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0032_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Hematopoietic,Other
+CEMT0065_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0138_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0065_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0007_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,MCF10A,Cell Line
+CEMT0096_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0098_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+MS001101_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0004_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0177_WGB-Seq,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,WGB-Seq,Methylome,Basal cells,Other
+CEMT0181_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Basal cells,Other
+CEMT0183_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Luminal cell,Other
+CEMT0076_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0004_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0009_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,184-hTert-L2,Cell Line
+CEMT0137_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0025_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0135_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0136_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0056_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0038_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Luminal progenitor,Other
+CEMT0098_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0075_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0030_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0097_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0034_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0053_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0040_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0005_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0056_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0129_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0088_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0006_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0078_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0086_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0179_H3K27me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27me3,Histone Modifications,Luminal Cells,Other
+CEMT0043_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0040_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0044_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0149_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,CD4 Naive,Other
+CEMT0025_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0051_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0136_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0035_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Basal cells,Other
+CEMT0074_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-right temporal,Other
+CEMT0147_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD4 Naive,Other
+CEMT0038_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Luminal progenitor,Other
+CEMT0097_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0007_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,MCF10A,Cell Line
+CEMT0153_WGB-Seq,CEMT,EGAD00001004300,https://www.ebi.ac.uk/ega/datasets/EGAD00001004300,WGB-Seq,Methylome,Naive CD4+ T Cells,Blood
+CEMT0036_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Stromal cells,Other
+CEMT0186_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0134_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0152_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD4 Naive,Other
+CEMT0180_Input,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,Input,Histone Modifications,Stromal cells,Other
+CEMT0180_H3K27me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27me3,Histone Modifications,Stromal cells,Other
+CEMT0076_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Left,Brain
+CEMT0088_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0022_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain,Brain
+CEMT0097_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0074_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-right temporal,Other
+CEMT0179_H3K36me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K36me3,Histone Modifications,Luminal Cells,Other
+CEMT0042_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0186_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Luminal progenitor cell,Other
+MS000601_H3K9me3,McGill,,,H3K9me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0138_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0149_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD4 Naive,Other
+CEMT0091_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0179_H3K9me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K9me3,Histone Modifications,Luminal Cells,Other
+CEMT0019_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Temporal lobe-Left,Brain
+MS000601_H3K36me3,McGill,,,H3K36me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0029_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0180_H3K9me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K9me3,Histone Modifications,Stromal cells,Other
+CEMT0067_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0026_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0007_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,MCF10A,Cell Line
+MS000601_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0157_H3K36me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K36me3,Histone Modifications,Stromal cells,Other
+CEMT0132_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0068_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0032_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Hematopoietic,Other
+CEMT0090_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0096_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0008_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,184-hTert-L9,Cell Line
+MS001001_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0064_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS000901_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0005_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0066_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+MS000501_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0131_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0154_H3K9me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K9me3,Histone Modifications,Basal cell,Other
+CEMT0187_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Luminal cell,Other
+CEMT0062_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0058_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0041_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0054_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other
+CEMT0068_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0091_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0153_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Naive CD4+ T Cells,Blood
+CEMT0056_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+CEMT0023_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain,Brain
+CEMT0152_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD4 Naive,Other
+CEMT0051_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0038_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Luminal progenitor,Other
+CEMT0155_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Luminal progenitor,Other
+CEMT0132_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0137_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0099_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0150_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD4 Naive,Other
+CEMT0098_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0089_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0061_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+CEMT0051_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0091_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0027_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0089_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0157_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Stromal cells,Other
+CEMT0019_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Temporal lobe-Left,Brain
+CEMT0052_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0067_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0181_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Basal cells,Other
+CEMT0185_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Basal cells,Other
+CEMT0154_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Basal cell,Other
+MS001001_RNA-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,RNA-Seq,Transcriptome,CD4-positive helper T cell,Blood
+CEMT0081_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Right,Brain
+CEMT0091_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0152_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,CD4 Naive,Other
+CEMT0149_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD4 Naive,Other
+CEMT0185_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Basal cells,Other
+CEMT0094_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0035_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Basal cells,Other
+CEMT0180_H3K27ac,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K27ac,Histone Modifications,Stromal cells,Other
+CEMT0058_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0035_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Basal cells,Other
+CEMT0045_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0061_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon,Other
+CEMT0136_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0184_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Stromal cell,Other
+CEMT0033_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0061_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0098_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0098_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0078_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0134_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,B cells,Other
+CEMT0030_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0026_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0026_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0004_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0058_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0152_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD4 Naive,Other
+CEMT0157_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Stromal cells,Other
+CEMT0177_H3K9me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K9me3,Histone Modifications,Basal cells,Other
+MS000701_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0009_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,184-hTert-L2,Cell Line
+CEMT0056_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon,Other
+CEMT0040_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0179_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Luminal Cells,Other
+CEMT0075_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0037_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Luminal cells-mature,Other
+CEMT0036_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Stromal cells,Other
+CEMT0006_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0041_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0030_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0040_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0057_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0087_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0030_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0180_WGB-Seq,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,WGB-Seq,Methylome,Stromal cells,Other
+CEMT0188_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Stromal cell,Other
+CEMT0019_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Brain-Temporal lobe-Left,Brain
+CEMT0028_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0087_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+CEMT0129_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0134_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0183_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Luminal cell,Other
+CEMT0149_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD4 Naive,Other
+MS000901_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0073_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Occipetal Lobe-Right,Other
+CEMT0135_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0072_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0134_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,B cells,Other
+CEMT0026_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0081_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0129_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,B cells,Other
+CEMT0154_H3K4me1,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me1,Histone Modifications,Basal cell,Other
+CEMT0063_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0005_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0042_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Thyroid,Thyroid
+MS000901_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0132_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0177_Input,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,Input,Histone Modifications,Basal cells,Other
+CEMT0067_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0027_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0088_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0031_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Hematopoietic,Other
+CEMT0033_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0182_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Luminal progenitor cell,Other
+MS001001_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0050_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0094_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0185_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Basal cells,Other
+CEMT0131_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Thyroid,Thyroid
+CEMT0027_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0028_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD19+ cells (B lymphocytes),Blood
+CEMT0094_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,B cells,Other
+CEMT0186_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Luminal progenitor cell,Other
+CEMT0032_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Hematopoietic,Other
+CEMT0150_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD4 Naive,Other
+CEMT0154_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Basal cell,Other
+CEMT0031_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Hematopoietic,Other
+CEMT0061_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon,Other
+CEMT0066_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0059_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0079_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Right,Brain
+CEMT0037_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Luminal cells-mature,Other
+CEMT0078_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Brain-Frontal Lobe-Right,Brain
+MS000801_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+MS000601_H3K4me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0078_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Brain-Frontal Lobe-Right,Brain
+CEMT0034_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Large Intestine-Colon-Ascending (Right),Other
+CEMT0155_Input,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,Input,Histone Modifications,Luminal progenitor,Other
+CEMT0042_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Thyroid,Thyroid
+CEMT0060_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0138_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0006_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0179_mRNA-Seq,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,mRNA-Seq,Transcriptome,Luminal Cells,Other
+MS000901_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0004_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+CEMT0053_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Large Intestine-Colon,Other
+CEMT0132_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0090_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0180_mRNA-Seq,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,mRNA-Seq,Transcriptome,Stromal cells,Other
+CEMT0137_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0047_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0089_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+MS000501_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0022_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain,Brain
+CEMT0180_H3K36me3,CEMT,EGAD00001005060,https://www.ebi.ac.uk/ega/datasets/EGAD00001005060,H3K36me3,Histone Modifications,Stromal cells,Other
+CEMT0037_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Luminal cells-mature,Other
+CEMT0035_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Basal cells,Other
+CEMT0040_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0131_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Thyroid,Thyroid
+CEMT0188_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Stromal cell,Other
+CEMT0134_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0042_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0062_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0044_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0029_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+CEMT0063_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS000501_WGB-Seq,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,WGB-Seq,Methylome,CD4-positive helper T cell,Blood
+CEMT0150_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD4 Naive,Other
+CEMT0065_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0183_H3K4me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K4me3,Histone Modifications,Luminal cell,Other
+CEMT0136_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,B cells,Other
+CEMT0185_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Basal cells,Other
+CEMT0095_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,B cells,Other
+CEMT0043_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0027_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD19+ cells (B lymphocytes),Blood
+MS001101_H3K4me1,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K4me1,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0099_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0147_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,CD4 Naive,Other
+CEMT0005_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0184_WGB-Seq,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,WGB-Seq,Methylome,Stromal cell,Other
+MS001101_H3K27ac,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27ac,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0047_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Frontal Lobe-Right,Brain
+CEMT0053_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0149_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,CD4 Naive,Other
+CEMT0072_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0072_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+CEMT0007_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,MCF10A,Cell Line
+CEMT0188_mRNA-Seq,CEMT,,,mRNA-Seq,Transcriptome,Stromal cell,Other
+CEMT0040_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0181_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Basal cells,Other
+CEMT0188_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Stromal cell,Other
+CEMT0059_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,Large Intestine-Colon-Rectosigmoid,Other
+MS000601_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0090_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Thyroid,Thyroid
+CEMT0135_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,B cells,Other
+CEMT0026_WGB-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,WGB-Seq,Methylome,CD19+ cells (B lymphocytes),Blood
+CEMT0021_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0045_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Thyroid,Thyroid
+CEMT0045_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0009_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,184-hTert-L2,Cell Line
+CEMT0135_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,B cells,Other
+MS000601_H3K27me3,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,H3K27me3,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0019_H3K36me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K36me3,Histone Modifications,Brain-Temporal lobe-Left,Brain
+CEMT0056_H3K9me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K9me3,Histone Modifications,Large Intestine-Colon,Other
+CEMT0032_H3K4me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me3,Histone Modifications,Hematopoietic,Other
+CEMT0052_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+MS001101_Input,McGill,EGAD00001001279,https://www.ebi.ac.uk/ega/datasets/EGAD00001001279,Input,Histone Modifications,CD4-positive helper T cell,Blood
+CEMT0064_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon-Ascending (Right),Other
+CEMT0138_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,B cells,Other
+CEMT0187_H3K27ac,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27ac,Histone Modifications,Luminal cell,Other
+CEMT0149_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,CD4 Naive,Other
+CEMT0182_H3K27me3,CEMT,EGAD00001005335,https://www.ebi.ac.uk/ega/datasets/EGAD00001005335,H3K27me3,Histone Modifications,Luminal progenitor cell,Other
+CEMT0131_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Thyroid,Thyroid
+CEMT0076_H3K4me1,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K4me1,Histone Modifications,Brain-Frontal Lobe-Left,Brain
+CEMT0044_H3K27ac,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27ac,Histone Modifications,Thyroid,Thyroid
+CEMT0023_H3K27me3,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,H3K27me3,Histone Modifications,Brain,Brain
+CEMT0043_mRNA-Seq,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,mRNA-Seq,Transcriptome,Thyroid,Thyroid
+CEMT0060_Input,CEMT,EGAD00001003963,https://www.ebi.ac.uk/ega/datasets/EGAD00001003963,Input,Histone Modifications,Large Intestine-Colon,Other

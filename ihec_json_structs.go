@@ -1,8 +1,10 @@
 package ihec
 
 import (
+	"encoding/csv"
 	"errors"
 	"fmt"
+	"os"
 )
 
 /*
@@ -170,4 +172,45 @@ func (s *Selection) PrintLeanContext() {
 		fmt.Println("\t"+"Cell Type Category:", val.CellTypeCategory)
 		fmt.Println("\t"+"Releasing Group:", val.ReleasingGroup)
 	}
+}
+
+// ExportAccessions writes *Selection.Accessions to a csv file at specified path
+func (s *Selection) ExportAccessions(path string) {
+	table := make([][]string, len(s.Accessions))
+	index := 0
+	for val := range s.Accessions {
+		table[index] = []string{val}
+		index++
+	}
+	file, err := os.Create(path)
+	CheckErr("Unable to initialize new file: ", err)
+	writer := csv.NewWriter(file)
+	defer writer.Flush()
+	CheckErr("Unable to write csv: ", writer.WriteAll(table))
+}
+
+// ExportLeanContext writes *Selection.MakeLeanContext() to a csv file at specified path
+func (s *Selection) ExportLeanContext(path string) {
+	lc, err := s.MakeLeanContext()
+	CheckErr("Unable to make LeanContext for pretty print: ", err)
+	table := make([][]string, len(lc))
+	index := 0
+	for key, val := range lc {
+		table[index] = []string{
+			key,
+			val.ReleasingGroup,
+			val.Accession,
+			val.RawDataURL,
+			val.Assay,
+			val.AssayCategory,
+			val.CellType,
+			val.CellTypeCategory,
+		}
+		index++
+	}
+	file, err := os.Create(path)
+	CheckErr("Unable to initialize new file: ", err)
+	writer := csv.NewWriter(file)
+	defer writer.Flush()
+	CheckErr("Unable to write csv: ", writer.WriteAll(table))
 }
