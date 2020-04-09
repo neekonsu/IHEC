@@ -114,7 +114,6 @@ func (s *Selection) PopulateAccessions() {
 	for _, metadata := range s.files {
 		for _, dataset := range metadata.Datasets {
 			output[IsolateAccession(dataset.RawDataURL)] = false
-			output[IsolateAccession(dataset.IhecDataPortal.RawDataURL)] = false
 		}
 	}
 	delete(output, "")
@@ -171,6 +170,7 @@ func (s *Selection) PrintLeanContext() {
 		fmt.Println("\t"+"Cell Type:", val.CellType)
 		fmt.Println("\t"+"Cell Type Category:", val.CellTypeCategory)
 		fmt.Println("\t"+"Releasing Group:", val.ReleasingGroup)
+
 	}
 }
 

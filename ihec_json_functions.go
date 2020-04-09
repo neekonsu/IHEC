@@ -35,6 +35,9 @@ func IsolateAccession(path string) string {
 	CheckErr("Unable to parse URL: "+path+": ", err)
 	if len(path) != 0 {
 		index := strings.Index(URL.Path, "datasets/") + 9
+		if index == 8 {
+			index = strings.Index(URL.Path, "view/") + 5
+		}
 		return URL.Path[index:]
 	}
 	return ""
