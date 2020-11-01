@@ -1,4 +1,4 @@
-# IHEC portal dataset scraping program
+# IHEC portal dataset metadata scraping program
 
 The IHEC epigenome data portal provides an intuitive way to access large amounts of epigenome experiments across several consortia. The portal provides interfaces to retreive metadata for select experiments, and this program uses that metadata to generate `LeanContext` files, which are a struct I created to port metadata from the "Roadmap To The Epigenome" to my ChromHMM pipeline. Example outputs of the program as well as the raw metadata from IHEC can be found across the repository. Please read through the `main` function for more information on the individual output files.
 
