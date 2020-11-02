@@ -5,6 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"os"
+	"time"
 )
 
 /*
@@ -170,7 +171,7 @@ func (s *Selection) PrintLeanContext() {
 		fmt.Println("\t"+"Cell Type:", val.CellType)
 		fmt.Println("\t"+"Cell Type Category:", val.CellTypeCategory)
 		fmt.Println("\t"+"Releasing Group:", val.ReleasingGroup)
-
+		time.Sleep(2 * time.Second)
 	}
 }
 
